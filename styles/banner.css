@@ -1,0 +1,11 @@
+#banner {
+	height: 70vh;
+	background-image: url("../images/sushi_banner.jpeg");
+	background-size: cover;
+	background-position: center;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: start;
+}

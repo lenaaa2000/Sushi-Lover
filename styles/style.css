@@ -1,0 +1,15 @@
+@import "banner.css";
+@import "footer.css";
+@import "cards.css";
+
+body {
+	margin: 0;
+	background-color: black;
+}
+
+a {
+	text-decoration: none;
+}
+h2 {
+	color : white;
+}
